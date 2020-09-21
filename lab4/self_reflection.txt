@@ -1,0 +1,63 @@
+All questions are optional, though try to answer at least 4. The main goal of this file is to get you thinking critically about your own work, but we will also use these self reflections at the end of the semester when we do our internal review of the course.
+
+ArrayDeque:
+
+Q: Give an example of at least one idea from the staff solution that would have made your solution better (if any).
+
+A: I can use get() in the implementation of resize().
+
+Q: What's something you felt proud of in your code, if anything?
+
+A: The implementation of isEmpty() in both array and linkedlist; uses only one line.
+
+Q: What's something that was particularly inelegant in your code, if anything?
+
+A: I should combine resize() and shrink(). 
+
+Q: What did you learn by talking to your partner about writing ArrayDeque?
+
+A: I can write resize simpler. 
+
+Q: What do you wish you would have known before writing ArrayDeque, if anything?
+
+A: I can access to the capacity of array by simply calling item.length
+
+Q: If you wrote ArrayDeque again, what would you do differently, if anything?
+
+A: I should write resize() differently, using get method. 
+
+-----
+
+LinkedListDeque:
+
+Q: Give an example of at least one idea from the staff solution that would have made your solution better (if any).
+
+A: getResursive.
+
+Q: What's something you felt proud of in your code, if anything?
+
+A: isEmpty().
+
+Q: What's something that was particularly inelegant in your code, if anything?
+
+A: getRecursive().
+
+Q: What did you learn by talking to your partner about writing LinkedListDeque?
+
+A: I should write a helper method for getRecursive. 
+
+Q: What do you wish you would have known before writing LinkedListDeque, if anything?
+
+A: The nested class should be private0ooo.
+
+Q: If you wrote LinkedListDeque again, what would you do differently, if anything?
+
+A: I wrote a nested class constructer that never
+
+-----
+
+Meta:
+
+Q: Did you like this design review process? Anything we should do differently next time?
+
+A: It's all good. 
